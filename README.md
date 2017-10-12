@@ -1,1 +1,0 @@
-# asp-ornek-uygulama

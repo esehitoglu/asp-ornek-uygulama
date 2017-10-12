@@ -1,0 +1,6 @@
+c:\users\timur\documents\visual studio 2013\Projects\Uygulama3\Uygulama3\bin\Uygulama3.dll.config
+c:\users\timur\documents\visual studio 2013\Projects\Uygulama3\Uygulama3\bin\Uygulama3.dll
+c:\users\timur\documents\visual studio 2013\Projects\Uygulama3\Uygulama3\bin\Uygulama3.pdb
+c:\users\timur\documents\visual studio 2013\Projects\Uygulama3\Uygulama3\obj\Debug\Uygulama3.csprojResolveAssemblyReference.cache
+c:\users\timur\documents\visual studio 2013\Projects\Uygulama3\Uygulama3\obj\Debug\Uygulama3.dll
+c:\users\timur\documents\visual studio 2013\Projects\Uygulama3\Uygulama3\obj\Debug\Uygulama3.pdb
